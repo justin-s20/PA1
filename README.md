@@ -2,8 +2,7 @@
 ### Programming Assignment 1 (CS 3753 Operating Systems)
 
 
-# 
-Build
+# Build
 
 Each of these files needs to be put in their respective path beginning at the directory **/home/kernel/linux-hwe-4.15.0**
 
